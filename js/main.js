@@ -8,6 +8,7 @@
     const addTask = task => {
         // 新しくリストを作り、listItemとする
         const listItem = document.createElement('input');
+
         // 新しくボタンを作り、removeButtonとする
         const removeButton = document.createElement('button');
 
